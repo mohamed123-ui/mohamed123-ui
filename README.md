@@ -15,7 +15,7 @@ I'm a Front developer with a strong passion for creating visually appealing and 
 <p>
 <a href="https://www.facebook.com/seleem99/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="www.linkedin.com/in/mohamed-seleem-bb4a382ab
+<a href="https://www.linkedin.com/in/mohamed-seleem-bb4a382ab
 "><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
